@@ -1,3 +1,3 @@
 { 
-  "single-stock-autoinvest-C0-body": "You're one step away from automating {{ Event.instrumentName | default: \"DogeCoin\" }}"
+  "single-stock-autoinvest-C0-body": "You're one step away from automating {{ Event.City | default: \"California\" }}"
 }
