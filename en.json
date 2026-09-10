@@ -1,0 +1,6 @@
+{
+  "account-setup-reminder": "Let’s get you started in 3 easy steps. First, set up your account.",
+  "account-setup-reminder-free-share": "🙌 Your free fractional shares are waiting for you! Let’s get you started in 3 easy steps. First, set up your account.",
+  "single-stock-autoinvest-C0-body": "You're one step away from automating {{ Event.instrumentName | default: \"DogeCoin\" }}",
+  "adyen-payment-authorised": "Deposit completed. {currency}{amount} has been added to your account."
+}
